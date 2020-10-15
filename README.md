@@ -10,5 +10,5 @@ It's a web-based _Typing Speed Calculator_ made using __HTML5__ and __JavaScript
 ---
 # Program Screenshot:
 
-<br><br>
-<p align="center"><img src="https://github.com/DeepNinja07x/Typing-Speed-Test/blob/main/Typing%20Speed%20Calculator/Screenshot.png" alt="Program Screenshot"></p>
+<br>
+<p align="center"><img src="https://github.com/DeepNinja07x/Typing-Speed-Test/blob/main/Typing%20Speed%20Calculator/Screenshot.png" alt="Program Screenshot" width="80%"></p>
