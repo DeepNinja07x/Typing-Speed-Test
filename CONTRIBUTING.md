@@ -15,7 +15,7 @@
     > git add <Your_Contribution>
  
 -  Add a commit message !
-    > git commit -a -m "<Your_Message>
+    > git commit -a -m "<Your_Message>"
     
 -  Push changes
     > git push -u origin <Name_Of_Your_Branch>
