@@ -22,8 +22,6 @@
  
 -  Create your pull request [Try to Mention the related issue for your PR] 
 
--  Add your details in [__Contributors.md__](https://github.com/DeepNinja07x/To-Do-App/blob/master/Contributors.md) file.
-
 <br/>
 
 # How to Sync the Repo!
