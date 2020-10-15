@@ -9,4 +9,4 @@ It's a web-based _Typing Speed Calculator_ made using __HTML5__ and __JavaScript
 
 ---
 # Program Screenshot:
-<p align="center"
+<p align="center"><img src=""></p>
