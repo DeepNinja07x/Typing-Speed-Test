@@ -1,4 +1,3 @@
-# to automate pull request
 pull_request_rules:
   - name: Automatic merge ⬇️ on approval ✔
     conditions:
